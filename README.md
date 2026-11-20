@@ -375,6 +375,7 @@ console.log('After Adding 5 Days:', date);
 // Add 2 hours
 date.setHours(date.getHours() + 2);
 console.log('After Adding 2 Hours:', date);
+```
 
 2. Subtracting Dates:
 
